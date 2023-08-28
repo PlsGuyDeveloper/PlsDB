@@ -1,4 +1,4 @@
-# PlsDB Lua
+# PlsDB (For Roblox Other Languages will be supported soon!)
 
 The `PlsDB` module is a Lua library designed for interacting with the PlsDB API, allowing you to create databases, add columns, generate keys, and connect to databases.
 
